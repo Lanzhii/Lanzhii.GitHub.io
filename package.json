@@ -1,0 +1,20 @@
+{
+  "name": "my-blog",
+  "version": "0.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "repository": "https://github.com/Lanzhii/Lanzhii.github.io",
+  "author": "Yang Lanzhi <80807494+Lanzhii@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --no-cache",
+    "dev": "vuepress dev docs",
+    "docs:eject-theme": "vuepress eject-hope docs",
+    "docs:dev": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-hope": "^1.20.3"
+  }
+}
