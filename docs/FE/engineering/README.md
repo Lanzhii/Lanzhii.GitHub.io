@@ -67,5 +67,4 @@ features:
     link: https://Lanzhii.github.io/guide/feature/
 
 copyrightText: false
-footer: MIT Licensed | Copyright © 2019-present 半兮酱紫
 ---

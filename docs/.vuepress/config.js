@@ -83,6 +83,11 @@ module.exports = config({
         link: "/guide/",
       },
       {
+        text: "元认知",
+        icon: "note",
+        link: "/metacognition/",
+      },
+      {
         text: "闲思",
         icon: "note",
         link: "/logs/"
@@ -197,5 +202,6 @@ module.exports = config({
     },
   },
   repoDisplay: false,
-  backToTop: true
+  backToTop: true,
+  lastUpdated: '上次更新',
 });
