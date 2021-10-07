@@ -3,6 +3,7 @@ blog: true
 home: true
 icon: home
 title: 博客主页
+bgImage: /bgImge.jpg
 heroText: There is no best, only better
 heroFullScreen: true
 tagline: There is no best, only better
