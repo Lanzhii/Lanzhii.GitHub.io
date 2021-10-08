@@ -23,9 +23,15 @@
    - vue3中的响应式时通过JavaScript的Proxy对象来实现的，
 
      > - Proxy对象会创建一个对象的代理，目的是拦截对目标对象的所有“交互”操作；
-     > - 语法：let p=new Proxy(target,handler)
+     > - 语法：let proxy=new Proxy(target,handler)
      >   - handler——一个通常以函数作为属性的对象，这些属性代表的是在对target操作时代理p的行为
      >   - handler对象的默认属性包含set，get
      >   - 难点：在Proxy对象
 
-   
+     - vue3通过Proxy对象给data对象中的property创建一个proxy代理，proxy的handler上面包含`proxy.set(target,property)`和`proxy.get(target,property)`方法
+       - get方法中调用一个track方法，目的是检测当前是哪一个effect在运行，并将其与property、target记录在一起，effect方法对当前运行的代码进行包裹，目的是将其记录；
+       - set方法中调用trigger方法，目的是检测哪些effect方法依赖于目标property，并执行这些effect方法
+     - 这个代理主要做三件事：
+       1. 在某个property被读取时进行追踪：调用get方法，将运行的代码(effect)、target、property记录在一起
+       2. 当某个值发生改变时进行检测：调用set方法
+       3. 重新运行代码来读取原始值：触发trigger方法，
