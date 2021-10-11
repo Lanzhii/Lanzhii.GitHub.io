@@ -1,3 +1,12 @@
+---
+author: 半兮酱紫
+time: 2021-10-10
+category: 日志
+tag:  Javascript
+reading-time: < 1 min
+visitor: true
+---
+
 # `Javascript`问题集
 
 > 判断数据类型的方法、原型链、this指向、设计模式、call, apply, bind, new实现、防抖节流、let, `var`, `const` 区别、event loop、单线程，同步异步、promise使用及实现、promise并行执行和顺序执行、闭包、垃圾回收和内存泄漏、数组方法、数组乱序, 数组扁平化、事件委托、事件监听、事件模型、typescript、模块、
