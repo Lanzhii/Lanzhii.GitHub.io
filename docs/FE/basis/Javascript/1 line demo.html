@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <script>
+      const countBy = (arr, prop) =>
+        arr.reduce((prev, curr) => ((prev[curr[prop]] = ++prev[curr[prop]] || 1), prev), {})
+
+      // Example
+      console.log(countBy(
+        [
+          { branch: 'audi', model: 'q8', year: '2019' },
+          { branch: 'audi', model: 'rs7', year: '2020' },
+          { branch: 'ford', model: 'mustang', year: '2019' },
+          { branch: 'ford', model: 'explorer', year: '2020' },
+          { branch: 'bmw', model: 'x7', year: '2020' }
+        ],
+        'branch'
+      ))
+
+      // { 'audi': 2, 'ford': 2, 'bmw': 1 }
+    </script>
+  </body>
+</html>
