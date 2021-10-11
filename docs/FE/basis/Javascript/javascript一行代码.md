@@ -1,615 +1,685 @@
-[GitHub4827★](https://github.com/1milligram/1loc)
+[GitHub4827★](https://github.com/1milligram/1loc\)
 
-**# 最喜欢的 JavaScript 实用程序**
+**\*\*# 最喜欢的 JavaScript 实用程序\*\***
 
-**#### 在一行代码中！**
+**\*\*#### 在一行代码中！\*\***
 
-**### 数组**
+**\*\*### 数组\*\***
 
-1 .将值转换为数组[#](https://1loc.dev/#cast-a-value-as-an-array)
+-[x] 1 .将值转换为数组[#](https://1loc.dev/#cast-a-value-as-an-array\)
 
-2 .检查数组是否为空[#](https://1loc.dev/#check-if-an-array-is-empty)
+-[x] 2 .检查数组是否为空[#](https://1loc.dev/#check-if-an-array-is-empty\)
 
-3 .克隆一个数组[#](https://1loc.dev/#clone-an-array)
+-[x] 3 .克隆一个数组[#](https://1loc.dev/#clone-an-array\)
 
-4 .不管顺序如何比较两个数组[#](https://1loc.dev/#compare-two-arrays-regardless-of-order)
+-[x] 4 .不管顺序如何比较两个数组[#](https://1loc.dev/#compare-two-arrays-regardless-of-order\)
 
-5 .比较两个数组[#](https://1loc.dev/#compare-two-arrays)
+-[x] 5 .比较两个数组[#](https://1loc.dev/#compare-two-arrays\)
 
-6 .将对象数组转换为单个对象[#](https://1loc.dev/#convert-an-array-of-objects-to-a-single-object)
+-[x] 6 .将对象数组转换为单个对象[#](https://1loc.dev/#convert-an-array-of-objects-to-a-single-object\)
 
-7 .将字符串数组转换为数字[#](https://1loc.dev/#convert-an-array-of-strings-to-numbers)
+-[x] 7 .将字符串数组转换为数字[#](https://1loc.dev/#convert-an-array-of-strings-to-numbers\)
 
-8 .按对象数组的属性计数[#](https://1loc.dev/#count-by-the-properties-of-an-array-of-objects)
+-[x] 8 .按对象数组的属性计数[#](https://1loc.dev/#count-by-the-properties-of-an-array-of-objects\)
 
-unknown 已解决
+-[x] unknown 已解决
 
-9 .计算数组中某个值的出现次数[#](https://1loc.dev/#count-the-occurrences-of-a-value-in-an-array)
+-[x]
 
-10 .计算数组元素的出现次数[#](https://1loc.dev/#count-the-occurrences-of-array-elements)
+-[x] 9 .计算数组中某个值的出现次数[#](https://1loc.dev/#count-the-occurrences-of-a-value-in-an-array\)
 
-unknown 已解决
+-[x] 10 .计算数组元素的出现次数[#](https://1loc.dev/#count-the-occurrences-of-array-elements\)
 
-11 .创建一个累积和的数组[#](https://1loc.dev/#create-an-array-of-cumulative-sum)
+-[x] unknown 已解决
 
-12 .创建给定范围内的数字数组[#](https://1loc.dev/#create-an-array-of-numbers-in-the-given-range)
+-[x]
 
-13 .创建笛卡尔积[#](https://1loc.dev/#create-cartesian-product)
+-[x] 11 .创建一个累积和的数组[#](https://1loc.dev/#create-an-array-of-cumulative-sum\)
 
-14 .清空数组[#](https://1loc.dev/#empty-an-array)
+-[x] 12 .创建给定范围内的数字数组[#](https://1loc.dev/#create-an-array-of-numbers-in-the-given-range\)
 
-15 .从数组中找到最接近的数字[#](https://1loc.dev/#find-the-closest-number-from-an-array)
+-[x] 13 .创建笛卡尔积[#](https://1loc.dev/#create-cartesian-product\)
 
-16 .查找数组最后一个匹配项的索引[#](https://1loc.dev/#find-the-index-of-the-last-matching-item-of-an-array)
+太复杂，失去可读性？？？
 
-17 .查找数组最大项的索引[#](https://1loc.dev/#find-the-index-of-the-maximum-item-of-an-array)
+-[x] 14 .清空数组[#](https://1loc.dev/#empty-an-array\)
 
-18 .查找数组中最小项的索引[#](https://1loc.dev/#find-the-index-of-the-minimum-item-of-an-array)
+-[x] 15 .从数组中找到最接近的数字[#](https://1loc.dev/#find-the-closest-number-from-an-array\)
 
-19 .查找数组中最长字符串的长度[#](https://1loc.dev/#find-the-length-of-the-longest-string-in-an-array)
+-[x] 16 .查找数组最后一个匹配项的索引[#](https://1loc.dev/#find-the-index-of-the-last-matching-item-of-an-array\)
 
-20 .通过给定的键查找数组的最大项[#](https://1loc.dev/#find-the-maximum-item-of-an-array-by-given-key)
+-[x] 17 .查找数组最大项的索引[#](https://1loc.dev/#find-the-index-of-the-maximum-item-of-an-array\)
 
-21 .查找数组的最大项[#](https://1loc.dev/#find-the-maximum-item-of-an-array)
+-[x] 18 .查找数组中最小项的索引[#](https://1loc.dev/#find-the-index-of-the-minimum-item-of-an-array\)
 
-22 .通过给定的键查找数组的最小项[#](https://1loc.dev/#find-the-minimum-item-of-an-array-by-given-key)
+-[x] 19 .查找数组中最长字符串的长度[#](https://1loc.dev/#find-the-length-of-the-longest-string-in-an-array\)
 
-23 .查找数组的最小项[#](https://1loc.dev/#find-the-minimum-item-of-an-array)
+-[x] 20 .通过给定的键查找数组的最大项[#](https://1loc.dev/#find-the-maximum-item-of-an-array-by-given-key\)
 
-24 .展平一个数组[#](https://1loc.dev/#flatten-an-array)
+-[x] 21 .查找数组的最大项[#](https://1loc.dev/#find-the-maximum-item-of-an-array\)
 
-25 .获取所有连续元素的数组[#](https://1loc.dev/#get-all-arrays-of-consecutive-elements)
+-[x] 22 .通过给定的键查找数组的最小项[#](https://1loc.dev/#find-the-minimum-item-of-an-array-by-given-key\)
 
-26 .获取数组的所有第 n 项[#](https://1loc.dev/#get-all-nth-items-of-an-array)
+-[x] 23 .查找数组的最小项[#](https://1loc.dev/#find-the-minimum-item-of-an-array\)
 
-27 .获取数组的所有子集[#](https://1loc.dev/#get-all-subsets-of-an-array)
+-[x] 24 .展平一个数组[#](https://1loc.dev/#flatten-an-array\)
 
-28 .得到的值的索引以阵列[#](https://1loc.dev/#get-indices-of-a-value-in-an-array)
+-[x] 25 .获取所有连续元素的数组[#](https://1loc.dev/#get-all-arrays-of-consecutive-elements\)
 
-29 .获取数组的平均值[#](https://1loc.dev/#get-the-average-of-an-array)
+-[x] 26 .获取数组的所有第 n 项[#](https://1loc.dev/#get-all-nth-items-of-an-array\)
 
-30 .获取数组的交集[#](https://1loc.dev/#get-the-intersection-of-arrays)
+-[x] 27 .获取数组的所有子集[#](https://1loc.dev/#get-all-subsets-of-an-array\)
 
-31 .获取数字数组的等级[#](https://1loc.dev/#get-the-rank-of-an-array-of-numbers)
+-[x] 28 .得到的值的索引以阵列[#](https://1loc.dev/#get-indices-of-a-value-in-an-array\)
 
-32 .获取数字数组的总和[#](https://1loc.dev/#get-the-sum-of-an-array-of-numbers)
+-[x] 29 .获取数组的平均值[#](https://1loc.dev/#get-the-average-of-an-array\)
 
-33 .获取数组的唯一值[#](https://1loc.dev/#get-the-unique-values-of-an-array)
+-[x] 30 .获取数组的交集[#](https://1loc.dev/#get-the-intersection-of-arrays\)
 
-34 .获取数组的并集[#](https://1loc.dev/#get-union-of-arrays)
+-[x] 31 .获取数字数组的等级[#](https://1loc.dev/#get-the-rank-of-an-array-of-numbers\)
 
-35 .基的由密钥对象数组[#](https://1loc.dev/#group-an-array-of-objects-by-a-key)
+-[x] 32 .获取数字数组的总和[#](https://1loc.dev/#get-the-sum-of-an-array-of-numbers\)
 
-36 .合并两个数组[#](https://1loc.dev/#merge-two-arrays)
+-[x] 33 .获取数组的唯一值[#](https://1loc.dev/#get-the-unique-values-of-an-array\)
 
-37 .分区基于条件的阵列[#](https://1loc.dev/#partition-an-array-based-on-a-condition)
+-[x] 34 .获取数组的并集[#](https://1loc.dev/#get-union-of-arrays\)
 
-38 .删除数组中的重复值[#](https://1loc.dev/#remove-duplicate-values-in-an-array)
+-[x] 35 .基的由密钥对象数组[#](https://1loc.dev/#group-an-array-of-objects-by-a-key\)
 
-39 .从数组中删除假值[#](https://1loc.dev/#remove-falsy-values-from-array)
+-[x] 36 .合并两个数组[#](https://1loc.dev/#merge-two-arrays\)
 
-40 .重复数组[#](https://1loc.dev/#repeat-an-array)
+-[x] 37 .分区基于条件的阵列[#](https://1loc.dev/#partition-an-array-based-on-a-condition\)
 
-41 .打乱数组[#](https://1loc.dev/#shuffle-an-array)
+-[x] 38 .删除数组中的重复值[#](https://1loc.dev/#remove-duplicate-values-in-an-array\)
 
-42 .排序给出关键项目的数组[#](https://1loc.dev/#sort-an-array-of-items-by-given-key)
+-[x] 39 .从数组中删除假值[#](https://1loc.dev/#remove-falsy-values-from-array\)
 
-43 .对数字数组进行排序[#](https://1loc.dev/#sort-an-array-of-numbers)
+-[x] 40 .重复数组[#](https://1loc.dev/#repeat-an-array\)
 
-44 .将数组拆分为块[#](https://1loc.dev/#split-an-array-into-chunks)
+-[x] 41 .打乱数组[#](https://1loc.dev/#shuffle-an-array\)
 
-45 .交换矩阵的行和列[#](https://1loc.dev/#swap-the-rows-and-columns-of-a-matrix)
+-[x] 42 .排序给出关键项目的数组[#](https://1loc.dev/#sort-an-array-of-items-by-given-key\)
 
-46 .交换两个数组项[#](https://1loc.dev/#swap-two-array-items)
+-[x] 43 .对数字数组进行排序[#](https://1loc.dev/#sort-an-array-of-numbers\)
 
-47 .解压缩数组数组[#](https://1loc.dev/#unzip-an-array-of-arrays)
+-[x] 44 .将数组拆分为块[#](https://1loc.dev/#split-an-array-into-chunks\)
 
-48 .压缩多个数组[#](https://1loc.dev/#zip-multiple-arrays)
+-[x] 45 .交换矩阵的行和列[#](https://1loc.dev/#swap-the-rows-and-columns-of-a-matrix\)
 
-**### 约会时间 49 .将 AM PM 后缀添加到一个小时\*\***[****#****]\***\*(\*\***https://1loc.dev/#add-am-pm-suffix-to-an-hour****)\*\*
+-[x] 46 .交换两个数组项[#](https://1loc.dev/#swap-two-array-items\)
 
-50 .计算两个日期之间的差异天数[#](https://1loc.dev/#calculate-the-number-of-difference-days-between-two-dates)
+-[x] 47 .解压缩数组数组[#](https://1loc.dev/#unzip-an-array-of-arrays\)
 
-51 .计算两个日期之间的月数[#](https://1loc.dev/#calculate-the-number-of-months-between-two-dates)
+-[x] 48 .压缩多个数组[#](https://1loc.dev/#zip-multiple-arrays\)
 
-52 .比较两个日期[#](https://1loc.dev/#compare-two-dates)
+-[x] **\*\*### 约会时间 49 .将 AM PM 后缀添加到一个小时\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #add-am-pm-suffix-to-an-hour\*\***)
 
-53 .将日期转换为 YYYY-MM-DD 格式[#](https://1loc.dev/#convert-a-date-to-yyyy-mm-dd-format)
+\*\*
 
-54 .将秒转换为 hh:mm:ss 格式[#](https://1loc.dev/#convert-seconds-to-hh-mm-ss-format)
+-[x]
 
-55 .从日期中提取年、月、日、时、分、秒和毫秒[#](https://1loc.dev/#extract-year-month-day-hour-minute-second-and-millisecond-from-a-date)
+-[x] 50 .计算两个日期之间的差异天数[#](https://1loc.dev/#calculate-the-number-of-difference-days-between-two-dates\)
 
-56 .格式化给定语言环境的日期[#](https://1loc.dev/#format-a-date-for-the-given-locale)
+-[x] 51 .计算两个日期之间的月数[#](https://1loc.dev/#calculate-the-number-of-months-between-two-dates\)
 
-57 .获取日期的当前季度[#](https://1loc.dev/#get-the-current-quarter-of-a-date)
+-[x] 52 .比较两个日期[#](https://1loc.dev/#compare-two-dates\)
 
-58 .以秒为单位获取当前时间戳[#](https://1loc.dev/#get-the-current-timestamp-in-seconds)
+-[x] 53 .将日期转换为 YYYY-MM-DD 格式[#](https://1loc.dev/#convert-a-date-to-yyyy-mm-dd-format\)
 
-59 .从日期获取一年中的哪一天[#](https://1loc.dev/#get-the-day-of-the-year-from-a-date)
+-[x] 54 .将秒转换为 hh:mm:ss 格式[#](https://1loc.dev/#convert-seconds-to-hh-mm-ss-format\)
 
-60 .获取日期所在月份的第一个日期[#](https://1loc.dev/#get-the-first-date-in-the-month-of-a-date)
+-[x] 55 .从日期中提取年、月、日、时、分、秒和毫秒[#](https://1loc.dev/-[x] #extract-year-month-day-hour-minute-second-and-millisecond-from-a-date\)
 
-61 .获取日期所在月份的最后一个日期[#](https://1loc.dev/#get-the-last-date-in-the-month-of-a-date)
+-[x] 56 .格式化给定语言环境的日期[#](https://1loc.dev/#format-a-date-for-the-given-locale\)
 
-62 .获取日期的月份名称[#](https://1loc.dev/#get-the-month-name-of-a-date)
+-[x] 57 .获取日期的当前季度[#](https://1loc.dev/#get-the-current-quarter-of-a-date\)
 
-63 .获取给定月份的天数[#](https://1loc.dev/#get-the-number-of-days-in-given-month)
+-[x] 58 .以秒为单位获取当前时间戳[#](https://1loc.dev/#get-the-current-timestamp-in-seconds\)
 
-64 .获取时区字符串[#](https://1loc.dev/#get-the-timezone-string)
+-[x] 59 .从日期获取一年中的哪一天[#](https://1loc.dev/#get-the-day-of-the-year-from-a-date\)
 
-65 .获取明天的日期[#](https://1loc.dev/#get-the-tomorrow-date)
+-[x] 60 .获取日期所在月份的第一个日期[#](https://1loc.dev/#get-the-first-date-in-the-month-of-a-date\)
 
-66 .获取一年中的总天数[#](https://1loc.dev/#get-the-total-number-of-days-in-a-year)
+-[x] 61 .获取日期所在月份的最后一个日期[#](https://1loc.dev/#get-the-last-date-in-the-month-of-a-date\)
 
-67 .获取日期的工作日[#](https://1loc.dev/#get-the-weekday-of-a-date)
+-[x] 62 .获取日期的月份名称[#](https://1loc.dev/#get-the-month-name-of-a-date\)
 
-68 .获取昨天的日期[#](https://1loc.dev/#get-the-yesterday-date)
+-[x] 63 .获取给定月份的天数[#](https://1loc.dev/#get-the-number-of-days-in-given-month\)
 
-69 .初始化当前日期但将时间设置为午夜[#](https://1loc.dev/#initialize-the-current-date-but-set-time-to-midnight)
+-[x] 64 .获取时区字符串[#](https://1loc.dev/#get-the-timezone-string\)
 
-70 .对日期数组进行排序[#](https://1loc.dev/#sort-an-array-of-dates)
+-[x] 65 .获取明天的日期[#](https://1loc.dev/#get-the-tomorrow-date\)
 
-**### 检查一个元素是否是另一个元素的后代\*\***[****#****]\***\*(\*\***https://1loc.dev/#check-if-an-element-is-a-descendant-of-another****)\*\*
+-[x] 66 .获取一年中的总天数[#](https://1loc.dev/#get-the-total-number-of-days-in-a-year\)
 
-72 .检查元素是否被聚焦[#](https://1loc.dev/#check-if-an-element-is-focused)
+-[x] 67 .获取日期的工作日[#](https://1loc.dev/#get-the-weekday-of-a-date\)
 
-73 .检查是否支持触摸事件[#](https://1loc.dev/#check-if-the-touch-events-are-supported)
+-[x] 68 .获取昨天的日期[#](https://1loc.dev/#get-the-yesterday-date\)
 
-74 .检查用户是否滚动到页面底部[#](https://1loc.dev/#check-if-user-scrolls-to-the-bottom-of-the-page)
+-[x] 69 .初始化当前日期但将时间设置为午夜[#](https://1loc.dev/#initialize-the-current-date-but-set-time-to-midnight\)
 
-75 .检测 Internet Explorer 浏览器[#](https://1loc.dev/#detect-internet-explorer-browser)
+-[x] 70 .对日期数组进行排序[#](https://1loc.dev/#sort-an-array-of-dates\)
 
-76 .检测 macOS 浏览器[#](https://1loc.dev/#detect-macos-browser)
+-[x] **\*\*### 检查一个元素是否是另一个元素的后代\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #check-if-an-element-is-a-descendant-of-another\*\***)
 
-77 .获取元素的所有兄弟[#](https://1loc.dev/#get-all-siblings-of-an-element)
+\*\*
 
-78 .获取元素相对于文档的位置[#](https://1loc.dev/#get-the-position-of-an-element-relative-to-the-document)
+-[x]
 
-79 .获取选中的文本[#](https://1loc.dev/#get-the-selected-text)
+-[x] 72 .检查元素是否被聚焦[#](https://1loc.dev/#check-if-an-element-is-focused\)
 
-80 .返回上一个页面[#](https://1loc.dev/#go-back-to-the-previous-page)
+-[x] 73 .检查是否支持触摸事件[#](https://1loc.dev/#check-if-the-touch-events-are-supported\)
 
-81 .隐藏元素[#](https://1loc.dev/#hide-an-element)
+-[x] 74 .检查用户是否滚动到页面底部[#](https://1loc.dev/#check-if-user-scrolls-to-the-bottom-of-the-page\)
 
-82 .在另一个元素之后插入一个元素[#](https://1loc.dev/#insert-an-element-after-other-one)
+-[x] 75 .检测 Internet Explorer 浏览器[#](https://1loc.dev/#detect-internet-explorer-browser\)
 
-83 .在另一个元素之前插入一个元素[#](https://1loc.dev/#insert-an-element-before-other-one)
+-[x] 76 .检测 macOS 浏览器[#](https://1loc.dev/#detect-macos-browser\)
 
-84 .在元素后插入给定的 HTML[#](https://1loc.dev/#insert-given-html-after-an-element)
+-[x] 77 .获取元素的所有兄弟[#](https://1loc.dev/#get-all-siblings-of-an-element\)
 
-85 .在元素前插入给定的 HTML[#](https://1loc.dev/#insert-given-html-before-an-element)
+-[x] 78 .获取元素相对于文档的位置[#](https://1loc.dev/#get-the-position-of-an-element-relative-to-the-document\)
 
-86 .重定向到另一个页面[#](https://1loc.dev/#redirect-to-another-page)
+-[x] 79 .获取选中的文本[#](https://1loc.dev/#get-the-selected-text\)
 
-87 .重新加载当前页面[#](https://1loc.dev/#reload-the-current-page)
+-[x] 80 .返回上一个页面[#](https://1loc.dev/#go-back-to-the-previous-page\)
 
-88 .替换元素[#](https://1loc.dev/#replace-an-element)
+-[x] 81 .隐藏元素[#](https://1loc.dev/#hide-an-element\)
 
-89 .滚动到页面顶部[#](https://1loc.dev/#scroll-to-top-of-the-page)
+-[x] 82 .在另一个元素之后插入一个元素[#](https://1loc.dev/#insert-an-element-after-other-one\)
 
-90 .序列化表单数据[#](https://1loc.dev/#serialize-form-data)
+-[x] 83 .在另一个元素之前插入一个元素[#](https://1loc.dev/#insert-an-element-before-other-one\)
 
-91 .显示元素[#](https://1loc.dev/#show-an-element)
+-[x] 84 .在元素后插入给定的 HTML[#](https://1loc.dev/#insert-given-html-after-an-element\)
 
-92 .从给定文本中去除 HTML[#](https://1loc.dev/#strip-html-from-a-given-text)
+-[x] 85 .在元素前插入给定的 HTML[#](https://1loc.dev/#insert-given-html-before-an-element\)
 
-93 .切换元素[#](https://1loc.dev/#toggle-an-element)
+-[x] 86 .重定向到另一个页面[#](https://1loc.dev/#redirect-to-another-page\)
 
-**### 功能 94 .箱子处理程序\*\***[****#****]\***\*(\*\***https://1loc.dev/#box-handler****)\*\*
+-[x] 87 .重新加载当前页面[#](https://1loc.dev/#reload-the-current-page\)
 
-95 .检查一个值是否是一个函数[#](https://1loc.dev/#check-if-a-value-is-a-function)
+-[x] 88 .替换元素[#](https://1loc.dev/#replace-an-element\)
 
-96 .检查一个值是否是一个生成器函数[#](https://1loc.dev/#check-if-a-value-is-a-generator-function)
+-[x] 89 .滚动到页面顶部[#](https://1loc.dev/#scroll-to-top-of-the-page\)
 
-97 .检查值是否为异步函数[#](https://1loc.dev/#check-if-a-value-is-an-async-function)
+-[x] 90 .序列化表单数据[#](https://1loc.dev/#serialize-form-data\)
 
-98 .从左到右组合函数[#](https://1loc.dev/#compose-functions-from-left-to-right)
+-[x] 91 .显示元素[#](https://1loc.dev/#show-an-element\)
 
-99 .组合函数[#](https://1loc.dev/#compose-functions)
+-[x] 92 .从给定文本中去除 HTML[#](https://1loc.dev/#strip-html-from-a-given-text\)
 
-100 .创建一个接受单个参数的函数[#](https://1loc.dev/#create-a-function-that-accepts-a-single-argument)
+-[x] 93 .切换元素[#](https://1loc.dev/#toggle-an-element\)
 
-101 .创建一个空函数[#](https://1loc.dev/#create-an-empty-function)
+-[x] **\*\*### 功能 94 .箱子处理程序\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/#box-handler****)
 
-102 .咖喱函数[#](https://1loc.dev/#curry-a-function)
+\*\*
 
-103 .延迟函数的评估[#](https://1loc.dev/#delay-the-evaluation-of-a-function)
+-[x]
 
-104 。执行一次函数[#](https://1loc.dev/#execute-a-function-once)
+-[x] 95 .检查一个值是否是一个函数[#](https://1loc.dev/#check-if-a-value-is-a-function\)
 
-105 .翻转函数的参数[#](https://1loc.dev/#flip-the-arguments-of-a-function)
+-[x] 96 .检查一个值是否是一个生成器函数[#](https://1loc.dev/#check-if-a-value-is-a-generator-function\)
 
-106 .身份功能[#](https://1loc.dev/#identity-function)
+-[x] 97 .检查值是否为异步函数[#](https://1loc.dev/#check-if-a-value-is-an-async-function\)
 
-107 .逻辑异或运算符[#](https://1loc.dev/#logical-xor-operator)
+-[x] 98 .从左到右组合函数[#](https://1loc.dev/#compose-functions-from-left-to-right\)
 
-108 .记住一个函数[#](https://1loc.dev/#memoize-a-function)
+-[x] 99 .组合函数[#](https://1loc.dev/#compose-functions\)
 
-109 .部分应用函数[#](https://1loc.dev/#partially-apply-a-function)
+-[x] 100 .创建一个接受单个参数的函数[#](https://1loc.dev/#create-a-function-that-accepts-a-single-argument\)
 
-110 .取消函数[#](https://1loc.dev/#uncurry-a-function)
+-[x] 101 .创建一个空函数[#](https://1loc.dev/#create-an-empty-function\)
 
-**### 数学 111 .计算由两点定义的直线的角度\*\***[****#****]\***\*(\*\***https://1loc.dev/#calculate-the-angle-of-a-line-defined-by-two-points****)\*\*
+-[x] 102 .咖喱函数[#](https://1loc.dev/#curry-a-function\)
 
-112 。计算两点之间的距离[#](https://1loc.dev/#calculate-the-distance-between-two-points)
+-[x] 103 .延迟函数的评估[#](https://1loc.dev/#delay-the-evaluation-of-a-function\)
 
-113 .计算两个数字之间的线性插值[#](https://1loc.dev/#calculate-the-linear-interpolation-between-two-numbers)
+-[x] 104 。执行一次函数[#](https://1loc.dev/#execute-a-function-once\)
 
-114 。计算两点之间的中点[#](https://1loc.dev/#calculate-the-midpoint-between-two-points)
+-[x] 105 .翻转函数的参数[#](https://1loc.dev/#flip-the-arguments-of-a-function\)
 
-115 .检查点是否在矩形内[#](https://1loc.dev/#check-if-a-point-is-inside-a-rectangle)
+-[x] 106 .身份功能[#](https://1loc.dev/#identity-function\)
 
-116 .检查一个矩形是否包含另一个矩形[#](https://1loc.dev/#check-if-a-rectangle-contains-other-one)
+-[x] 107 .逻辑异或运算符[#](https://1loc.dev/#logical-xor-operator\)
 
-117 .检查一个矩形是否与另一个重叠[#](https://1loc.dev/#check-if-a-rectangle-overlaps-other-one)
+-[x] 108 .记住一个函数[#](https://1loc.dev/#memoize-a-function\)
 
-118 .将度数转换为弧度[#](https://1loc.dev/#convert-degrees-to-radians)
+-[x] 109 .部分应用函数[#](https://1loc.dev/#partially-apply-a-function\)
 
-119 .将弧度转换为度数[#](https://1loc.dev/#convert-radians-to-degrees)
+-[x] 110 .取消函数[#](https://1loc.dev/#uncurry-a-function\)
 
-120 .标准化某个范围内数字的比率[#](https://1loc.dev/#normalize-the-ratio-of-a-number-in-a-range)
+-[x] **\*\*### 数学 111 .计算由两点定义的直线的角度\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #calculate-the-angle-of-a-line-defined-by-two-points\*\***)
 
-121 .将数字四舍五入到给定值的最接近的倍数[#](https://1loc.dev/#round-a-number-to-the-nearest-multiple-of-a-given-value)
+\*\*
 
-**### 杂项 122 .检查代码是否在 NodeJS 中运行\*\***[****#****]\***\*(\*\***https://1loc.dev/#check-if-the-code-is-running-in-node-js****)\*\*
+-[x]
 
-123 .检查代码是否在浏览器中运行[#](https://1loc.dev/#check-if-the-code-is-running-in-the-browser)
+-[x] 112 。计算两点之间的距离[#](https://1loc.dev/#calculate-the-distance-between-two-points\)
 
-124 。清除所有 cookie[#](https://1loc.dev/#clear-all-cookies)
+-[x] 113 .计算两个数字之间的线性插值[#](https://1loc.dev/#calculate-the-linear-interpolation-between-two-numbers\)
 
-125 .将 3 位颜色转换为 6 位颜色[#](https://1loc.dev/#convert-3-digits-color-to-6-digits-color)
+-[x] 114 。计算两点之间的中点[#](https://1loc.dev/#calculate-the-midpoint-between-two-points\)
 
-126 .将摄氏度转换为华氏度[#](https://1loc.dev/#convert-celsius-to-fahrenheit)
+-[x] 115 .检查点是否在矩形内[#](https://1loc.dev/#check-if-a-point-is-inside-a-rectangle\)
 
-127 .将 cookie 转换为对象[#](https://1loc.dev/#convert-cookie-to-object)
+-[x] 116 .检查一个矩形是否包含另一个矩形[#](https://1loc.dev/#check-if-a-rectangle-contains-other-one\)
 
-128 .将华氏度转换为摄氏度[#](https://1loc.dev/#convert-fahrenheit-to-celsius)
+-[x] 117 .检查一个矩形是否与另一个重叠[#](https://1loc.dev/#check-if-a-rectangle-overlaps-other-one\)
 
-129 .将十六进制转换为 rgb[#](https://1loc.dev/#convert-hex-to-rgb)
+-[x] 118 .将度数转换为弧度[#](https://1loc.dev/#convert-degrees-to-radians\)
 
-130 .将 rgb 颜色转换为十六进制[#](https://1loc.dev/#convert-rgb-color-to-hex)
+-[x] 119 .将弧度转换为度数[#](https://1loc.dev/#convert-radians-to-degrees\)
 
-131 .将 URL 参数转换为对象[#](https://1loc.dev/#convert-url-parameters-to-object)
+-[x] 120 .标准化某个范围内数字的比率[#](https://1loc.dev/#normalize-the-ratio-of-a-number-in-a-range\)
 
-132 .解码 JWT 令牌[#](https://1loc.dev/#decode-a-jwt-token)
+-[x] 121 .将数字四舍五入到给定值的最接近的倍数[#](https://1loc.dev/-[x] #round-a-number-to-the-nearest-multiple-of-a-given-value\)
 
-133 .检测暗模式[#](https://1loc.dev/#detect-dark-mode)
+-[x] **\*\*### 杂项 122 .检查代码是否在 NodeJS 中运行\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #check-if-the-code-is-running-in-node-js\*\***)
 
-134 。缓动功能[#](https://1loc.dev/#easing-functions)
+\*\*
 
-135 。模拟掷骰子[#](https://1loc.dev/#emulate-a-dice-throw)
+-[x]
 
-136 。编码 URL[#](https://1loc.dev/#encode-a-url)
+-[x] 123 .检查代码是否在浏览器中运行[#](https://1loc.dev/#check-if-the-code-is-running-in-the-browser\)
 
-137 .生成唯一且递增的 id[#](https://1loc.dev/#generate-an-unique-and-increment-id)
+-[x] 124 。清除所有 cookie[#](https://1loc.dev/#clear-all-cookies\)
 
-138 .获取第一个定义的非空参数[#](https://1loc.dev/#get-the-first-defined-and-non-null-argument)
+-[x] 125 .将 3 位颜色转换为 6 位颜色[#](https://1loc.dev/#convert-3-digits-color-to-6-digits-color\)
 
-139 .获取 cookie 的值[#](https://1loc.dev/#get-the-value-of-a-cookie)
+-[x] 126 .将摄氏度转换为华氏度[#](https://1loc.dev/#convert-celsius-to-fahrenheit\)
 
-140 .从 URL 获取参数的值[#](https://1loc.dev/#get-the-value-of-a-param-from-a-url)
+-[x] 127 .将 cookie 转换为对象[#](https://1loc.dev/#convert-cookie-to-object\)
 
-141 .获取字符串中变量的类型[#](https://1loc.dev/#get-type-of-a-variable-in-string)
+-[x] 128 .将华氏度转换为摄氏度[#](https://1loc.dev/#convert-fahrenheit-to-celsius\)
 
-142 .如果页面在 HTTP 中，则将页面重定向到 HTTPS[#](https://1loc.dev/#redirect-the-page-to-https-if-it-is-in-http)
+-[x] 129 .将十六进制转换为 rgb[#](https://1loc.dev/#convert-hex-to-rgb\)
 
-143 .按顺序运行 Promise[#](https://1loc.dev/#run-promises-in-sequence)
+-[x] 130 .将 rgb 颜色转换为十六进制[#](https://1loc.dev/#convert-rgb-color-to-hex\)
 
-144 。交换两个变量[#](https://1loc.dev/#swap-two-variables)
+-[x] 131 .将 URL 参数转换为对象[#](https://1loc.dev/#convert-url-parameters-to-object\)
 
-145 。等待一段时间[#](https://1loc.dev/#wait-for-an-amount-of-time)
+-[x] 132 .解码 JWT 令牌[#](https://1loc.dev/#decode-a-jwt-token\)
 
-**### 数字 146 。为数字添加序数后缀\*\***[****#****]\***\*(\*\***https://1loc.dev/#add-an-ordinal-suffix-to-a-number****)\*\*
+-[x] 133 .检测暗模式[#](https://1loc.dev/#detect-dark-mode\)
 
-147 .计算斐波那契数列[#](https://1loc.dev/#calculate-fibonacci-numbers)
+-[x] 134 。缓动功能[#](https://1loc.dev/#easing-functions\)
 
-148 .计算参数的平均值[#](https://1loc.dev/#calculate-the-average-of-arguments)
+-[x] 135 。模拟掷骰子[#](https://1loc.dev/#emulate-a-dice-throw\)
 
-149 .计算参数的除法[#](https://1loc.dev/#calculate-the-division-of-arguments)
+-[x] 136 。编码 URL[#](https://1loc.dev/#encode-a-url\)
 
-150 .计算一个数的阶乘[#](https://1loc.dev/#calculate-the-factorial-of-a-number)
+-[x] 137 .生成唯一且递增的 id[#](https://1loc.dev/#generate-an-unique-and-increment-id\)
 
-151 .计算集合索引的模数[#](https://1loc.dev/#calculate-the-mod-of-collection-index)
+-[x] 138 .获取第一个定义的非空参数[#](https://1loc.dev/#get-the-first-defined-and-non-null-argument\)
 
-152 .计算参数除法的余数[#](https://1loc.dev/#calculate-the-remainder-of-division-of-arguments)
+-[x] 139 .获取 cookie 的值[#](https://1loc.dev/#get-the-value-of-a-cookie\)
 
-153 .计算参数的总和[#](https://1loc.dev/#calculate-the-sum-of-arguments)
+-[x] 140 .从 URL 获取参数的值[#](https://1loc.dev/#get-the-value-of-a-param-from-a-url\)
 
-154 .将数字夹在两个值之间[#](https://1loc.dev/#clamp-a-number-between-two-values)
+-[x] 141 .获取字符串中变量的类型[#](https://1loc.dev/#get-type-of-a-variable-in-string\)
 
-155 .计算两个数之间的最大公约数[#](https://1loc.dev/#compute-the-greatest-common-divisor-between-two-numbers)
+-[x] 142 .如果页面在 HTTP 中，则将页面重定向到 HTTPS[#](https://1loc.dev/-[x] #redirect-the-page-to-https-if-it-is-in-http\)
 
-156 .将数字转换为等效字符[#](https://1loc.dev/#convert-a-number-to-equivalent-characters)
+-[x] 143 .按顺序运行 Promise[#](https://1loc.dev/#run-promises-in-sequence\)
 
-157 .将字符串转换为数字[#](https://1loc.dev/#convert-a-string-to-number)
+-[x] 144 。交换两个变量[#](https://1loc.dev/#swap-two-variables\)
 
-158 .将十进制递归转换为二进制[#](https://1loc.dev/#convert-decimal-to-binary-recursively)
+-[x] 145 。等待一段时间[#](https://1loc.dev/#wait-for-an-amount-of-time\)
 
-159 .从数字中获取数字数组[#](https://1loc.dev/#get-the-arrays-of-digits-from-a-number)
+-[x] **\*\*### 数字 146 。为数字添加序数后缀\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #add-an-ordinal-suffix-to-a-number\*\***)
 
-160 .乘以参数[#](https://1loc.dev/#multiply-arguments)
+\*\*
 
-161 .用零前缀整数[#](https://1loc.dev/#prefix-an-integer-with-zeros)
+-[x]
 
-162 .将数字四舍五入到给定的位数[#](https://1loc.dev/#round-a-number-to-a-given-number-of-digits)
+-[x] 147 .计算斐波那契数列[#](https://1loc.dev/#calculate-fibonacci-numbers\)
 
-163 .减去参数[#](https://1loc.dev/#subtract-arguments)
+-[x] 148 .计算参数的平均值[#](https://1loc.dev/#calculate-the-average-of-arguments\)
 
-164 。截断十进制数[#](https://1loc.dev/#truncate-a-number-at-decimal)
+-[x] 149 .计算参数的除法[#](https://1loc.dev/#calculate-the-division-of-arguments\)
 
-165 。将数字截断到给定的小数位数而不舍入[#](https://1loc.dev/#truncate-a-number-to-a-given-number-of-decimal-places-without-rounding)
+-[x] 150 .计算一个数的阶乘[#](https://1loc.dev/#calculate-the-factorial-of-a-number\)
 
-**### 目的 166 。检查多个对象是否相等\*\***[****#****]\***\*(\*\***https://1loc.dev/#check-if-multiple-objects-are-equal****)\*\*
+-[x] 151 .计算集合索引的模数[#](https://1loc.dev/#calculate-the-mod-of-collection-index\)
 
-167 .创建一个没有属性的空地图[#](https://1loc.dev/#create-an-empty-map-that-does-not-have-properties)
+-[x] 152 .计算参数除法的余数[#](https://1loc.dev/#calculate-the-remainder-of-division-of-arguments\)
 
-168 .从键和值对创建一个对象[#](https://1loc.dev/#create-an-object-from-the-pairs-of-key-and-value)
+-[x] 153 .计算参数的总和[#](https://1loc.dev/#calculate-the-sum-of-arguments\)
 
-169 .从对象数组中提取属性的值[#](https://1loc.dev/#extract-values-of-a-property-from-an-array-of-objects)
+-[x] 154 .将数字夹在两个值之间[#](https://1loc.dev/#clamp-a-number-between-two-values\)
 
-170 .获取对象给定路径处的值[#](https://1loc.dev/#get-the-value-at-given-path-of-an-object)
+-[x] 155 .计算两个数之间的最大公约数[#](https://1loc.dev/#compute-the-greatest-common-divisor-between-two-numbers\)
 
-171 .一成不变地重命名对象键[#](https://1loc.dev/#immutably-rename-object-keys)
+-[x] 156 .将数字转换为等效字符[#](https://1loc.dev/#convert-a-number-to-equivalent-characters\)
 
-172 .反转对象的键和值[#](https://1loc.dev/#invert-keys-and-values-of-an-object)
+-[x] 157 .将字符串转换为数字[#](https://1loc.dev/#convert-a-string-to-number\)
 
-173 .省略对象的属性子集[#](https://1loc.dev/#omit-a-subset-of-properties-from-an-object)
+-[x] 158 .将十进制递归转换为二进制[#](https://1loc.dev/#convert-decimal-to-binary-recursively\)
 
-174 。选择一个对象的属性子集[#](https://1loc.dev/#pick-a-subset-of-properties-of-an-object)
+-[x] 159 .从数字中获取数字数组[#](https://1loc.dev/#get-the-arrays-of-digits-from-a-number\)
 
-175 .从对象中删除所有空和未定义的属性[#](https://1loc.dev/#remove-all-null-and-undefined-properties-from-an-object)
+-[x] 160 .乘以参数[#](https://1loc.dev/#multiply-arguments\)
 
-176 .浅拷贝对象[#](https://1loc.dev/#shallow-copy-an-object)
+-[x] 161 .用零前缀整数[#](https://1loc.dev/#prefix-an-integer-with-zeros\)
 
-177 .按属性对对象进行排序[#](https://1loc.dev/#sort-an-object-by-its-properties)
+-[x] 162 .将数字四舍五入到给定的位数[#](https://1loc.dev/#round-a-number-to-a-given-number-of-digits\)
 
-**### 随机的 178 .生成一个随机布尔值\*\***[****#****]\***\*(\*\***https://1loc.dev/#generate-a-random-boolean****)\*\*
+-[x] 163 .减去参数[#](https://1loc.dev/#subtract-arguments\)
 
-179 .在给定范围内生成一个随机浮点数[#](https://1loc.dev/#generate-a-random-floating-point-number-in-given-range)
+-[x] 164 。截断十进制数[#](https://1loc.dev/#truncate-a-number-at-decimal\)
 
-180 .生成随机十六进制颜色[#](https://1loc.dev/#generate-a-random-hex-color)
+-[x] 165 。将数字截断到给定的小数位数而不舍入[#](https://1loc.dev/-[x] #truncate-a-number-to-a-given-number-of-decimal-places-without-rounding\)
 
-181 .在给定范围内生成一个随机整数[#](https://1loc.dev/#generate-a-random-integer-in-given-range)
+-[x] **\*\*### 目的 166 。检查多个对象是否相等\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #check-if-multiple-objects-are-equal\*\***)
 
-182 .生成随机 IP 地址[#](https://1loc.dev/#generate-a-random-ip-address)
+\*\*
 
-183 .生成随机符号[#](https://1loc.dev/#generate-a-random-sign)
+-[x]
 
-184 .从给定字符生成随机字符串[#](https://1loc.dev/#generate-a-random-string-from-given-characters)
+-[x] 167 .创建一个没有属性的空地图[#](https://1loc.dev/#create-an-empty-map-that-does-not-have-properties\)
 
-185 .使用 Node crypto 模块生成随机字符串[#](https://1loc.dev/#generate-a-random-string-using-node-crypto-module)
+-[x] 168 .从键和值对创建一个对象[#](https://1loc.dev/#create-an-object-from-the-pairs-of-key-and-value\)
 
-186 .生成给定长度的随机字符串[#](https://1loc.dev/#generate-a-random-string-with-given-length)
+-[x] 169 .从对象数组中提取属性的值[#](https://1loc.dev/#extract-values-of-a-property-from-an-array-of-objects\)
 
-187 .生成随机 UUID[#](https://1loc.dev/#generate-a-random-uuid)
+-[x] 170 .获取对象给定路径处的值[#](https://1loc.dev/#get-the-value-at-given-path-of-an-object\)
 
-188 .生成给定范围内的随机整数数组[#](https://1loc.dev/#generate-an-array-of-random-integers-in-a-given-range)
+-[x] 171 .一成不变地重命名对象键[#](https://1loc.dev/#immutably-rename-object-keys\)
 
-189 .获取一个随机项并将其从数组中删除[#](https://1loc.dev/#get-a-random-item-and-remove-it-from-an-array)
+-[x] 172 .反转对象的键和值[#](https://1loc.dev/#invert-keys-and-values-of-an-object\)
 
-190 .从数组中获取随机项[#](https://1loc.dev/#get-a-random-item-from-an-array)
+-[x] 173 .省略对象的属性子集[#](https://1loc.dev/#omit-a-subset-of-properties-from-an-object\)
 
-191 .获取数组的随机项[#](https://1loc.dev/#get-random-items-of-an-array)
+-[x] 174 。选择一个对象的属性子集[#](https://1loc.dev/#pick-a-subset-of-properties-of-an-object\)
 
-192 .选择一个对象的随机属性[#](https://1loc.dev/#pick-a-random-property-of-an-object)
+-[x] 175 .从对象中删除所有空和未定义的属性[#](https://1loc.dev/-[x] #remove-all-null-and-undefined-properties-from-an-object\)
 
-193 .从文本文档中选择随机行[#](https://1loc.dev/#pick-random-lines-from-a-text-document)
+-[x] 176 .浅拷贝对象[#](https://1loc.dev/#shallow-copy-an-object\)
 
-**### 细绳 194 .将字符串大写\*\***[****#****]\***\*(\*\***https://1loc.dev/#capitalize-a-string****)\*\*
+-[x] 177 .按属性对对象进行排序[#](https://1loc.dev/#sort-an-object-by-its-properties\)
 
-195 .检查路径是否是相对的[#](https://1loc.dev/#check-if-a-path-is-relative)
+-[x] **\*\*### 随机的 178 .生成一个随机布尔值\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #generate-a-random-boolean\*\***)
 
-196 .检查字符串是否由重复的字符序列组成[#](https://1loc.dev/#check-if-a-string-consists-of-a-repeated-character-sequence)
+\*\*
 
-197 .检查字符串是否为回文[#](https://1loc.dev/#check-if-a-string-is-a-palindrome)
+-[x]
 
-198 .检查一个 URL 是否是绝对的[#](https://1loc.dev/#check-if-a-url-is-absolute)
+-[x] 179 .在给定范围内生成一个随机浮点数[#](https://1loc.dev/-[x] #generate-a-random-floating-point-number-in-given-range\)
 
-199 .检查两个字符串是否是字谜[#](https://1loc.dev/#check-if-two-strings-are-anagram)
+-[x] 180 .生成随机十六进制颜色[#](https://1loc.dev/#generate-a-random-hex-color\)
 
-200 .将字母转换为关联表情符号[#](https://1loc.dev/#convert-a-letter-to-associate-emoji)
+-[x] 181 .在给定范围内生成一个随机整数[#](https://1loc.dev/#generate-a-random-integer-in-given-range\)
 
-201 .将字符串转换为驼峰式大小写[#](https://1loc.dev/#convert-a-string-to-camel-case)
+-[x] 182 .生成随机 IP 地址[#](https://1loc.dev/#generate-a-random-ip-address\)
 
-202 .将字符串转换为 PascalCase[#](https://1loc.dev/#convert-a-string-to-pascal-case)
+-[x] 183 .生成随机符号[#](https://1loc.dev/#generate-a-random-sign\)
 
-203 .将字符串转换为 URL slug[#](https://1loc.dev/#convert-a-string-to-url-slug)
+-[x] 184 .从给定字符生成随机字符串[#](https://1loc.dev/#generate-a-random-string-from-given-characters\)
 
-204 .将 Windows 文件路径转换为 Unix 路径[#](https://1loc.dev/#convert-a-windows-file-path-to-unix-path)
+-[x] 185 .使用 Node crypto 模块生成随机字符串[#](https://1loc.dev/-[x] #generate-a-random-string-using-node-crypto-module\)
 
-205 .将 camelCase 转换为 kebab-case，反之亦然[#](https://1loc.dev/#convert-camel-case-to-kebab-case-and-vice-versa)
+-[x] 186 .生成给定长度的随机字符串[#](https://1loc.dev/#generate-a-random-string-with-given-length\)
 
-206 .将 snake_case 转换为 camelCase[#](https://1loc.dev/#convert-snake-case-to-camel-case)
+-[x] 187 .生成随机 UUID[#](https://1loc.dev/#generate-a-random-uuid\)
 
-207 .将 Excel 列的名称转换为数字[#](https://1loc.dev/#convert-the-name-of-an-excel-column-to-number)
+-[x] 188 .生成给定范围内的随机整数数组[#](https://1loc.dev/#generate-an-array-of-random-integers-in-a-given-range\)
 
-208 .计算字符串中的单词数[#](https://1loc.dev/#count-the-number-of-words-in-a-string)
+-[x] 189 .获取一个随机项并将其从数组中删除[#](https://1loc.dev/#get-a-random-item-and-remove-it-from-an-array\)
 
-209 .计算字符串中某个字符的出现次数[#](https://1loc.dev/#count-the-occurrences-of-a-character-in-a-string)
+-[x] 190 .从数组中获取随机项[#](https://1loc.dev/#get-a-random-item-from-an-array\)
 
-210 .对字符串进行大写[#](https://1loc.dev/#decapitalize-a-string)
+-[x] 191 .获取数组的随机项[#](https://1loc.dev/#get-random-items-of-an-array\)
 
-211 .转义 HTML 特殊字符[#](https://1loc.dev/#escape-html-special-characters)
+-[x] 192 .选择一个对象的随机属性[#](https://1loc.dev/#pick-a-random-property-of-an-object\)
 
-212 .生成一个字符串的哈希[#](https://1loc.dev/#generate-a-hash-of-a-string)
+-[x] 193 .从文本文档中选择随机行[#](https://1loc.dev/#pick-random-lines-from-a-text-document\)
 
-213 .获取不带任何参数的基本 URL[#](https://1loc.dev/#get-the-base-url-without-any-parameters)
+-[x] **\*\*### 细绳 194 .将字符串大写\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/#capitalize-a-string****)
 
-214 .从文件名中获取文件扩展名[#](https://1loc.dev/#get-the-file-extension-from-a-file-name)
+\*\*
 
-215 .从 URL 获取文件名[#](https://1loc.dev/#get-the-file-name-from-a-url)
+-[x]
 
-216 .获取字符串的长度（以字节为单位）[#](https://1loc.dev/#get-the-length-of-a-string-in-bytes)
+-[x] 195 .检查路径是否是相对的[#](https://1loc.dev/#check-if-a-path-is-relative\)
 
-217 .获取字符串中某个字符的个数[#](https://1loc.dev/#get-the-number-of-a-character-in-a-string)
+-[x] 196 .检查字符串是否由重复的字符序列组成[#](https://1loc.dev/-[x] #check-if-a-string-consists-of-a-repeated-character-sequence\)
 
-218 .使字符串的第一个字符小写[#](https://1loc.dev/#make-the-first-character-of-a-string-lowercase)
+-[x] 197 .检查字符串是否为回文[#](https://1loc.dev/#check-if-a-string-is-a-palindrome\)
 
-219 .规范化文件路径斜线[#](https://1loc.dev/#normalize-file-path-slashes)
+-[x] 198 .检查一个 URL 是否是绝对的[#](https://1loc.dev/#check-if-a-url-is-absolute\)
 
-220 .为文本文档的每一行添加一个行号[#](https://1loc.dev/#prepend-a-line-number-to-each-line-of-a-text-document)
+-[x] 199 .检查两个字符串是否是字谜[#](https://1loc.dev/#check-if-two-strings-are-anagram\)
 
-221 .删除文本文档的重复行[#](https://1loc.dev/#remove-duplicate-lines-of-a-text-document)
+-[x] 200 .将字母转换为关联表情符号[#](https://1loc.dev/#convert-a-letter-to-associate-emoji\)
 
-222 .删除文本文档的空行[#](https://1loc.dev/#remove-empty-lines-of-a-text-document)
+-[x] 201 .将字符串转换为驼峰式大小写[#](https://1loc.dev/#convert-a-string-to-camel-case\)
 
-223 .从字符串中删除空格[#](https://1loc.dev/#remove-spaces-from-a-string)
+-[x] 202 .将字符串转换为 PascalCase[#](https://1loc.dev/#convert-a-string-to-pascal-case\)
 
-224 。重复一个字符串[#](https://1loc.dev/#repeat-a-string)
+-[x] 203 .将字符串转换为 URL slug[#](https://1loc.dev/#convert-a-string-to-url-slug\)
 
-225 .用 br 元素替换所有换行符[#](https://1loc.dev/#replace-all-line-breaks-with-br-elements)
+-[x] 204 .将 Windows 文件路径转换为 Unix 路径[#](https://1loc.dev/#convert-a-windows-file-path-to-unix-path\)
 
-226 。用空格替换所有制表符[#](https://1loc.dev/#replace-all-tab-characters-with-spaces)
+-[x] 205 .将 camelCase 转换为 kebab-case，反之亦然[#](https://1loc.dev/-[x] #convert-camel-case-to-kebab-case-and-vice-versa\)
 
-227 .用一个空格替换多个空格[#](https://1loc.dev/#replace-multiple-spaces-with-a-single-space)
+-[x] 206 .将 snake_case 转换为 camelCase[#](https://1loc.dev/#convert-snake-case-to-camel-case\)
 
-228 .用另一个字符替换字符串的第一个给定字符数[#](https://1loc.dev/#replace-the-first-given-number-of-characters-of-a-string-with-another-character)
+-[x] 207 .将 Excel 列的名称转换为数字[#](https://1loc.dev/#convert-the-name-of-an-excel-column-to-number\)
 
-229 .反转字符串[#](https://1loc.dev/#reverse-a-string)
+-[x] 208 .计算字符串中的单词数[#](https://1loc.dev/#count-the-number-of-words-in-a-string\)
 
-230 .反转文本行的顺序[#](https://1loc.dev/#reverse-the-order-of-lines-of-a-text)
+-[x] 209 .计算字符串中某个字符的出现次数[#](https://1loc.dev/#count-the-occurrences-of-a-character-in-a-string\)
 
-231 .按字母顺序对文本文档的行进行排序[#](https://1loc.dev/#sort-lines-of-a-text-document-in-the-alphabetical-order)
+-[x] 210 .对字符串进行大写[#](https://1loc.dev/#decapitalize-a-string\)
 
-232 .按字母顺序对字符串的字符进行排序[#](https://1loc.dev/#sort-the-characters-of-a-string-in-the-alphabetical-order)
+-[x] 211 .转义 HTML 特殊字符[#](https://1loc.dev/#escape-html-special-characters\)
 
-233 。从字符串中去除 ANSI 代码[#](https://1loc.dev/#strip-ansi-codes-from-a-string)
+-[x] 212 .生成一个字符串的哈希[#](https://1loc.dev/#generate-a-hash-of-a-string\)
 
-234 。交换字符串中字符的大小写[#](https://1loc.dev/#swap-case-of-characters-in-a-string)
+-[x] 213 .获取不带任何参数的基本 URL[#](https://1loc.dev/#get-the-base-url-without-any-parameters\)
 
-235 。在字符串的开头和结尾修剪斜线[#](https://1loc.dev/#trim-slashes-at-the-beginning-and-the-end-of-a-string)
+-[x] 214 .从文件名中获取文件扩展名[#](https://1loc.dev/#get-the-file-extension-from-a-file-name\)
 
-236 。修剪一些字符[#](https://1loc.dev/#trim-some-character)
+-[x] 215 .从 URL 获取文件名[#](https://1loc.dev/#get-the-file-name-from-a-url\)
 
-237 .从文件名中修剪文件扩展名[#](https://1loc.dev/#trim-the-file-extension-from-a-file-name)
+-[x] 216 .获取字符串的长度（以字节为单位）[#](https://1loc.dev/#get-the-length-of-a-string-in-bytes\)
 
-238 .在完整单词处截断字符串[#](https://1loc.dev/#truncate-a-string-at-full-words)
+-[x] 217 .获取字符串中某个字符的个数[#](https://1loc.dev/#get-the-number-of-a-character-in-a-string\)
 
-239 .取消转义 HTML 特殊字符[#](https://1loc.dev/#unescape-html-special-characters)
+-[x] 218 .使字符串的第一个字符小写[#](https://1loc.dev/#make-the-first-character-of-a-string-lowercase\)
 
-240 .大写字符串中每个单词的第一个字符[#](https://1loc.dev/#uppercase-the-first-character-of-each-word-in-a-string)
+-[x] 219 .规范化文件路径斜线[#](https://1loc.dev/#normalize-file-path-slashes\)
 
-**### 验证器 241 .检查日期是否为工作日\*\***[****#****]\***\*(\*\***https://1loc.dev/#check-if-a-date-is-a-weekday****)\*\*
+-[x] 220 .为文本文档的每一行添加一个行号[#](https://1loc.dev/#prepend-a-line-number-to-each-line-of-a-text-document\)
 
-242 .检查日期是否是周末[#](https://1loc.dev/#check-if-a-date-is-a-weekend)
+-[x] 221 .删除文本文档的重复行[#](https://1loc.dev/#remove-duplicate-lines-of-a-text-document\)
 
-243 。检查日期是否在两个日期之间[#](https://1loc.dev/#check-if-a-date-is-between-two-dates)
+-[x] 222 .删除文本文档的空行[#](https://1loc.dev/#remove-empty-lines-of-a-text-document\)
 
-244 。检查日期是否是今天[#](https://1loc.dev/#check-if-a-date-is-today)
+-[x] 223 .从字符串中删除空格[#](https://1loc.dev/#remove-spaces-from-a-string\)
 
-245 。检查日期是否出现在当年[#](https://1loc.dev/#check-if-a-date-occurs-in-the-current-year)
+-[x] 224 。重复一个字符串[#](https://1loc.dev/#repeat-a-string\)
 
-246 。检查平面数组是否有重复值[#](https://1loc.dev/#check-if-a-flat-array-has-duplicate-values)
+-[x] 225 .用 br 元素替换所有换行符[#](https://1loc.dev/#replace-all-line-breaks-with-br-elements\)
 
-247 .检查给定的整数是否是素数[#](https://1loc.dev/#check-if-a-given-integer-is-a-prime-number)
+-[x] 226 。用空格替换所有制表符[#](https://1loc.dev/#replace-all-tab-characters-with-spaces\)
 
-248 .检查一个数字是否是 2 的幂[#](https://1loc.dev/#check-if-a-number-is-a-power-of-2)
+-[x] 227 .用一个空格替换多个空格[#](https://1loc.dev/#replace-multiple-spaces-with-a-single-space\)
 
-249 .检查数字是否为偶数[#](https://1loc.dev/#check-if-a-number-is-even)
+-[x] 228 .用另一个字符替换字符串的第一个给定字符数[#](https://1loc.dev/-[x] #replace-the-first-given-number-of-characters-of-a-string-with-another-character\)
 
-250 .检查数字是否在给定范围内[#](https://1loc.dev/#check-if-a-number-is-in-a-given-range)
+-[x] 229 .反转字符串[#](https://1loc.dev/#reverse-a-string\)
 
-251 .检查数字是否为负数[#](https://1loc.dev/#check-if-a-number-is-negative)
+-[x] 230 .反转文本行的顺序[#](https://1loc.dev/#reverse-the-order-of-lines-of-a-text\)
 
-252 .检查数字是否为奇数[#](https://1loc.dev/#check-if-a-number-is-odd)
+-[x] 231 .按字母顺序对文本文档的行进行排序[#](https://1loc.dev/-[x] #sort-lines-of-a-text-document-in-the-alphabetical-order\)
 
-253 .检查数字是否为正数[#](https://1loc.dev/#check-if-a-number-is-positive)
+-[x] 232 .按字母顺序对字符串的字符进行排序[#](https://1loc.dev/-[x] #sort-the-characters-of-a-string-in-the-alphabetical-order\)
 
-254 .检查字符串是否包含小写字符[#](https://1loc.dev/#check-if-a-string-contains-lower-case-characters)
+-[x] 233 。从字符串中去除 ANSI 代码[#](https://1loc.dev/#strip-ansi-codes-from-a-string\)
 
-255 .检查字符串是否仅包含 ASCII 字符[#](https://1loc.dev/#check-if-a-string-contains-only-ascii-characters)
+-[x] 234 。交换字符串中字符的大小写[#](https://1loc.dev/#swap-case-of-characters-in-a-string\)
 
-256 .检查字符串是否只包含数字[#](https://1loc.dev/#check-if-a-string-contains-only-digits)
+-[x] 235 。在字符串的开头和结尾修剪斜线[#](https://1loc.dev/#trim-slashes-at-the-beginning-and-the-end-of-a-string\)
 
-257 .检查字符串是否只包含字母和数字[#](https://1loc.dev/#check-if-a-string-contains-only-letters-and-numbers)
+-[x] 236 。修剪一些字符[#](https://1loc.dev/#trim-some-character\)
 
-258 .检查字符串是否只包含字母[#](https://1loc.dev/#check-if-a-string-contains-only-letters)
+-[x] 237 .从文件名中修剪文件扩展名[#](https://1loc.dev/#trim-the-file-extension-from-a-file-name\)
 
-259 .检查字符串是否包含大写字符[#](https://1loc.dev/#check-if-a-string-contains-upper-case-characters)
+-[x] 238 .在完整单词处截断字符串[#](https://1loc.dev/#truncate-a-string-at-full-words\)
 
-260 .检查字符串是否包含空格[#](https://1loc.dev/#check-if-a-string-contains-whitespace)
+-[x] 239 .取消转义 HTML 特殊字符[#](https://1loc.dev/#unescape-html-special-characters\)
 
-261 .检查字符串是否为十六进制颜色[#](https://1loc.dev/#check-if-a-string-is-a-hexadecimal-color)
+-[x] 240 .大写字符串中每个单词的第一个字符[#](https://1loc.dev/-[x] #uppercase-the-first-character-of-each-word-in-a-string\)
 
-262 。检查字符串是否为十六进制数[#](https://1loc.dev/#check-if-a-string-is-a-hexadecimal-number)
+-[x] **\*\*### 验证器 241 .检查日期是否为工作日\*\***\*\***\***\***[\*\***#\***\*]\*\***\*\***\*\*\*\***(\***\*\*\*\*\*\***\***https://1loc.dev/-[x] #check-if-a-date-is-a-weekday\*\***)
 
-263 .检查字符串是否是 MongoDB ObjectId[#](https://1loc.dev/#check-if-a-string-is-a-mongo-db-object-id)
+\*\*
 
-264 。检查字符串是否为八进制数[#](https://1loc.dev/#check-if-a-string-is-an-octal-number)
+-[x]
 
-265 。检查字符串是否为小写[#](https://1loc.dev/#check-if-a-string-is-lower-case)
+-[x] 242 .检查日期是否是周末[#](https://1loc.dev/#check-if-a-date-is-a-weekend\)
 
-266 。检查字符串是否为大写[#](https://1loc.dev/#check-if-a-string-is-upper-case)
+-[x] 243 。检查日期是否在两个日期之间[#](https://1loc.dev/#check-if-a-date-is-between-two-dates\)
 
-267 .检查值是否是业务标识符代码[#](https://1loc.dev/#check-if-a-value-is-a-business-identifier-code)
+-[x] 244 。检查日期是否是今天[#](https://1loc.dev/#check-if-a-date-is-today\)
 
-268 .检查值是否为数字[#](https://1loc.dev/#check-if-a-value-is-a-number)
+-[x] 245 。检查日期是否出现在当年[#](https://1loc.dev/#check-if-a-date-occurs-in-the-current-year\)
 
-269 .检查一个值是否是一个普通对象[#](https://1loc.dev/#check-if-a-value-is-a-plain-object)
+-[x] 246 。检查平面数组是否有重复值[#](https://1loc.dev/#check-if-a-flat-array-has-duplicate-values\)
 
-270 .检查值是否为正则表达式[#](https://1loc.dev/#check-if-a-value-is-a-regular-expression)
+-[x] 247 .检查给定的整数是否是素数[#](https://1loc.dev/#check-if-a-given-integer-is-a-prime-number\)
 
-271 .检查值是否为字符串[#](https://1loc.dev/#check-if-a-value-is-a-string)
+-[x] 248 .检查一个数字是否是 2 的幂[#](https://1loc.dev/#check-if-a-number-is-a-power-of-2\)
 
-272 .检查一个值是否是一个对象[#](https://1loc.dev/#check-if-a-value-is-an-object)
+-[x] 249 .检查数字是否为偶数[#](https://1loc.dev/#check-if-a-number-is-even\)
 
-273 .检查值是否为 base32 编码[#](https://1loc.dev/#check-if-a-value-is-base32-encoded)
+-[x] 250 .检查数字是否在给定范围内[#](https://1loc.dev/#check-if-a-number-is-in-a-given-range\)
 
-274 。检查值是否为 base58 编码[#](https://1loc.dev/#check-if-a-value-is-base58-encoded)
+-[x] 251 .检查数字是否为负数[#](https://1loc.dev/#check-if-a-number-is-negative\)
 
-275 .检查值是否为 base64 编码[#](https://1loc.dev/#check-if-a-value-is-base64-encoded)
+-[x] 252 .检查数字是否为奇数[#](https://1loc.dev/#check-if-a-number-is-odd\)
 
-276 .检查值是否为零[#](https://1loc.dev/#check-if-a-value-is-nil)
+-[x] 253 .检查数字是否为正数[#](https://1loc.dev/#check-if-a-number-is-positive\)
 
-277 .检查一年是否是闰年[#](https://1loc.dev/#check-if-a-year-is-leap-year)
+-[x] 254 .检查字符串是否包含小写字符[#](https://1loc.dev/#check-if-a-string-contains-lower-case-characters\)
 
-278 .检查所有数组元素是否等于给定值[#](https://1loc.dev/#check-if-all-array-elements-are-equal-to-a-given-value)
+-[x] 255 .检查字符串是否仅包含 ASCII 字符[#](https://1loc.dev/#check-if-a-string-contains-only-ascii-characters\)
 
-279 .检查数组中的所有项是否相等[#](https://1loc.dev/#check-if-all-items-in-an-array-are-equal)
+-[x] 256 .检查字符串是否只包含数字[#](https://1loc.dev/#check-if-a-string-contains-only-digits\)
 
-280 .检查数组是否包含匹配某些条件的值[#](https://1loc.dev/#check-if-an-array-contains-a-value-matching-some-criterias)
+-[x] 257 .检查字符串是否只包含字母和数字[#](https://1loc.dev/#check-if-a-string-contains-only-letters-and-numbers\)
 
-281 .检查数组是否为空[#](https://1loc.dev/#check-if-an-array-is-not-empty)
+-[x] 258 .检查字符串是否只包含字母[#](https://1loc.dev/#check-if-a-string-contains-only-letters\)
 
-282 .检查一个数组是否是其他数组的子集[#](https://1loc.dev/#check-if-an-array-is-subset-of-other-array)
+-[x] 259 .检查字符串是否包含大写字符[#](https://1loc.dev/#check-if-a-string-contains-upper-case-characters\)
 
-283 .检查一个对象是否是一个 Promise[#](https://1loc.dev/#check-if-an-object-is-a-promise)
+-[x] 260 .检查字符串是否包含空格[#](https://1loc.dev/#check-if-a-string-contains-whitespace\)
 
-284 .检查对象是否为数组[#](https://1loc.dev/#check-if-an-object-is-an-array)
+-[x] 261 .检查字符串是否为十六进制颜色[#](https://1loc.dev/#check-if-a-string-is-a-hexadecimal-color\)
 
-285 .检查对象是否为空[#](https://1loc.dev/#check-if-an-object-is-empty)
+-[x] 262 。检查字符串是否为十六进制数[#](https://1loc.dev/#check-if-a-string-is-a-hexadecimal-number\)
 
-286 .验证公历日期[#](https://1loc.dev/#validate-a-gregorian-date)
+-[x] 263 .检查字符串是否是 MongoDB ObjectId[#](https://1loc.dev/#check-if-a-string-is-a-mongo-db-object-id\)
+
+-[x] 264 。检查字符串是否为八进制数[#](https://1loc.dev/#check-if-a-string-is-an-octal-number\)
+
+-[x] 265 。检查字符串是否为小写[#](https://1loc.dev/#check-if-a-string-is-lower-case\)
+
+-[x] 266 。检查字符串是否为大写[#](https://1loc.dev/#check-if-a-string-is-upper-case\)
+
+-[x] 267 .检查值是否是业务标识符代码[#](https://1loc.dev/#check-if-a-value-is-a-business-identifier-code\)
+
+-[x] 268 .检查值是否为数字[#](https://1loc.dev/#check-if-a-value-is-a-number\)
+
+-[x] 269 .检查一个值是否是一个普通对象[#](https://1loc.dev/#check-if-a-value-is-a-plain-object\)
+
+-[x] 270 .检查值是否为正则表达式[#](https://1loc.dev/#check-if-a-value-is-a-regular-expression\)
+
+-[x] 271 .检查值是否为字符串[#](https://1loc.dev/#check-if-a-value-is-a-string\)
+
+-[x] 272 .检查一个值是否是一个对象[#](https://1loc.dev/#check-if-a-value-is-an-object\)
+
+-[x] 273 .检查值是否为 base32 编码[#](https://1loc.dev/#check-if-a-value-is-base32-encoded\)
+
+-[x] 274 。检查值是否为 base58 编码[#](https://1loc.dev/#check-if-a-value-is-base58-encoded\)
+
+-[x] 275 .检查值是否为 base64 编码[#](https://1loc.dev/#check-if-a-value-is-base64-encoded\)
+
+-[x] 276 .检查值是否为零[#](https://1loc.dev/#check-if-a-value-is-nil\)
+
+-[x] 277 .检查一年是否是闰年[#](https://1loc.dev/#check-if-a-year-is-leap-year\)
+
+-[x] 278 .检查所有数组元素是否等于给定值[#](https://1loc.dev/-[x] #check-if-all-array-elements-are-equal-to-a-given-value\)
+
+-[x] 279 .检查数组中的所有项是否相等[#](https://1loc.dev/#check-if-all-items-in-an-array-are-equal\)
+
+-[x] 280 .检查数组是否包含匹配某些条件的值[#](https://1loc.dev/-[x] #check-if-an-array-contains-a-value-matching-some-criterias\)
+
+-[x] 281 .检查数组是否为空[#](https://1loc.dev/#check-if-an-array-is-not-empty\)
+
+-[x] 282 .检查一个数组是否是其他数组的子集[#](https://1loc.dev/#check-if-an-array-is-subset-of-other-array\)
+
+-[x] 283 .检查一个对象是否是一个 Promise[#](https://1loc.dev/#check-if-an-object-is-a-promise\)
+
+-[x] 284 .检查对象是否为数组[#](https://1loc.dev/#check-if-an-object-is-an-array\)
+
+-[x] 285 .检查对象是否为空[#](https://1loc.dev/#check-if-an-object-is-empty\)
+
+-[x] 286 .验证公历日期[#](https://1loc.dev/#validate-a-gregorian-date\)
 
 产品
 
-**-** _[**模糊页面**]**(**https://blur.page/**)_
+**\*\*-\*\*** \_[**模糊页面**]**\*\*(\*\***https://blur.page/**)
 
-**-** _[**检查浏览器支持**]**(**https://checkbrowsers.support/**)_
+\_
 
-**-** _[**表单验证**]**(**https://formvalidation.io/**)_
+**\*\*-\*\*** \_[**检查浏览器支持**]**\*\*(\*\***https://checkbrowsers.support/**)
 
-**-** _[**IntersectionObserver 示例**]**(**https://intersectionobserver.io/**)_
+\_
 
-**-** _[**反应 PDF 查看器**]**(**https://react-pdf-viewer.dev/**)_
+**\*\*-\*\*** \_[**表单验证**]**\*\*(\*\***https://formvalidation.io/**)
+
+\_
+
+**\*\*-\*\*** \_[***\*IntersectionObserver 示例\****]**\*\*(\*\***https://intersectionobserver.io/**)
+
+\_
+
+**\*\*-\*\*** \_[***\*反应 PDF 查看器\****]**\*\*(\*\***https://react-pdf-viewer.dev/**)
+
+\_
 
 开源
 
-**-** _[**1 个位置**]**(**https://1loc.dev/**)_
+**\*\*-\*\*** \_[***\*1 个位置\****]**\*\*(\*\***https://1loc.dev/**)
 
-**-** _[**CSS 布局**]**(**https://csslayout.io/**)_
+\_
 
-**-** _[**前端技巧**]**(**https://getfrontend.tips/**)_
+**\*\*-\*\*** \_[***\*CSS 布局\****]**\*\*(\*\***https://csslayout.io/**)
 
-**-** _[**HTML DOM**]**(**https://htmldom.dev/**)_
+\_
 
-**-** _[**这个 VS 那个**]**(**https://thisthat.dev/**)_
+**\*\*-\*\*** \_[**前端技巧**]**\*\*(\*\***https://getfrontend.tips/**)
+
+\_
+
+**\*\*-\*\*** \_[***\*HTML DOM\****]**\*\*(\*\***https://htmldom.dev/**)
+
+\_
+
+**\*\*-\*\*** \_[***\*这个 VS 那个\****]**\*\*(\*\***https://thisthat.dev/**)
+
+\_
 
 跟着我们
 
-**-** _[**GitHub**]**(**https://github.com/1milligram/**)_
+**\*\*-\*\*** \_[**GitHub**]**\*\*(\*\***https://github.com/1milligram/**)
 
-**-** _[**推特**]**(**https://twitter.com/nghuuphuoc/**)_
+\_
+
+**\*\*-\*\*** \_[**推特**]**\*\*(\*\***https://twitter.com/nghuuphuoc/**)
+
+\_
 
 © 2020 — 2021，1 毫克。版权所有。
