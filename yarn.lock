@@ -1166,9 +1166,18 @@
     "@mr-hope/vuepress-types" "1.20.3"
     balloon-css "^1.2.0"
 
-"@mr-hope/vuepress-plugin-feed@1.20.3", "@mr-hope/vuepress-plugin-feed@^1.20.3":
+"@mr-hope/vuepress-plugin-feed@1.20.3":
   version "1.20.3"
   resolved "https://registry.nlark.com/@mr-hope/vuepress-plugin-feed/download/@mr-hope/vuepress-plugin-feed-1.20.3.tgz#1b54584ff07f3e8a6d071fcae3517d6462643047"
+  integrity sha1-G1RYT/B/PoptBx/K41F9ZGJkMEc=
+  dependencies:
+    "@mr-hope/vuepress-types" "1.20.3"
+    chalk "^4.1.2"
+    xml-js "^1.6.11"
+
+"@mr-hope/vuepress-plugin-feed@^1.20.3":
+  version "1.20.3"
+  resolved "https://registry.npmmirror.com/@mr-hope/vuepress-plugin-feed/download/@mr-hope/vuepress-plugin-feed-1.20.3.tgz#1b54584ff07f3e8a6d071fcae3517d6462643047"
   integrity sha1-G1RYT/B/PoptBx/K41F9ZGJkMEc=
   dependencies:
     "@mr-hope/vuepress-types" "1.20.3"
@@ -8256,6 +8265,11 @@ prettier@^1.18.2:
   version "1.19.1"
   resolved "https://registry.nlark.com/prettier/download/prettier-1.19.1.tgz?cache=0&sync_timestamp=1631777138030&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fprettier%2Fdownload%2Fprettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha1-99f1/4qc2HKnvkyhQglZVqYHl8s=
+
+prettier@^2.4.1:
+  version "2.4.1"
+  resolved "https://registry.nlark.com/prettier/download/prettier-2.4.1.tgz?cache=0&sync_timestamp=1631777167012&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fprettier%2Fdownload%2Fprettier-2.4.1.tgz#671e11c89c14a4cfc876ce564106c4a6726c9f5c"
+  integrity sha1-Zx4RyJwUpM/Ids5WQQbEpnJsn1w=
 
 pretty-bytes@^5.3.0:
   version "5.6.0"
