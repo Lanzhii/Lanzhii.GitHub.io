@@ -1,7 +1,0 @@
-const castArray = (value) => (Array.isArray(value) ? value : [value]);
-
-        // Examples
-        let cast=castArray(1)
-        cast  [1]
-        console.log(castArray(1))
-        consloe.log(castArray([1, 2, 3]))

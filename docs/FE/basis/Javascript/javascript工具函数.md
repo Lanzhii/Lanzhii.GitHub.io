@@ -8,35 +8,225 @@
 
 -[x] 1 .将值转换为数组
 
+```javascript
+const castArray = (value) => (Array.isArray(value) ? value : [value])
+
+// Examples
+castArray(1) // [1]
+castArray([1, 2, 3]) // [1, 2, 3]
+```
+
+-[x] 2 .检查数组是否为空[#](https://1loc.dev/#check-if-an-array-is-empty)
+
+```js
+const isEmpty = (arr) => !Array.isArray(arr) || arr.length === 0
+
+// Examples
+isEmpty([]) // true
+isEmpty([1, 2, 3]) // false
+```
+
 -[x] 3 .克隆一个数组[#](https://1loc.dev/#clone-an-array)
+
+```js
+/*
+
+*/
+const clone = (arr) => arr.slice(0)
+
+// Or
+const clone = (arr) => [...arr]
+
+// Or
+const clone = (arr) => Array.from(arr)
+
+// Or
+const clone = (arr) => arr.map((x) => x)
+
+// Or
+const clone = (arr) => JSON.parse(JSON.stringify(arr))
+
+// Or
+const clone = (arr) => arr.concat([])
+```
 
 -[x] 4 .不管顺序如何比较两个数组
 
+```js
+// `a` and `b` are arrays
+const isEqual = (a, b) => JSON.stringify(a.sort()) === JSON.stringify(b.sort())
+
+// Examples
+isEqual([1, 2, 3], [1, 2, 3]) // true
+isEqual([1, 2, 3], [1, 3, 2]) // true
+isEqual([1, 2, 3], [1, '2', 3]) // false
+```
+
 -[x] 5 .比较两个数组
+
+```js
+// `a` and `b` are arrays
+const isEqual = (a, b) => JSON.stringify(a) === JSON.stringify(b)
+
+// Or
+const isEqual = (a, b) => a.length === b.length && a.every((v, i) => v === b[i])
+
+// Examples
+isEqual([1, 2, 3], [1, 2, 3]) // true
+isEqual([1, 2, 3], [1, '2', 3]) // false
+```
 
 -[x] 6 .将对象数组转换为单个对象
 
+```js
+const toObject = (arr, key) => arr.reduce((a, b) => ({ ...a, [b[key]]: b }), {})
+
+// Or
+const toObject = (arr, key) => Object.fromEntries(arr.map((it) => [it[key], it]))
+
+// Example
+toObject(
+  [
+    { id: '1', name: 'Alpha', gender: 'Male' },
+    { id: '2', name: 'Bravo', gender: 'Male' },
+    { id: '3', name: 'Charlie', gender: 'Female' }
+  ],
+  'id'
+)
+/* 
+{
+    '1': { id: '1', name: 'Alpha', gender: 'Male' },
+    '2': { id: '2', name: 'Bravo', gender: 'Male' },
+    '3': { id: '3', name: 'Charlie', gender: 'Female' },
+}
+*/
+```
+
 -[x] 7 .将字符串数组转换为数字
 
--[x] 8 .按对象数组的属性计数[#](https://1loc.dev/#count-by-the-properties-of-an-array-of-objects)
+```js
+const toNumbers = (arr) => arr.map(Number)
+
+// Or
+const toNumbers = (arr) => arr.map((x) => +x)
+
+// Example
+toNumbers(['2', '3', '4']) // [2, 3, 4]
+```
+
+-[x] 8 .按对象数组的属性计数
+
+```js
+const countBy = (arr, prop) =>
+  arr.reduce((prev, curr) => ((prev[curr[prop]] = ++prev[curr[prop]] || 1), prev), {})
+
+// Example
+countBy(
+  [
+    { branch: 'audi', model: 'q8', year: '2019' },
+    { branch: 'audi', model: 'rs7', year: '2020' },
+    { branch: 'ford', model: 'mustang', year: '2019' },
+    { branch: 'ford', model: 'explorer', year: '2020' },
+    { branch: 'bmw', model: 'x7', year: '2020' }
+  ],
+  'branch'
+)
+
+// { 'audi': 2, 'ford': 2, 'bmw': 1 }
+```
 
 unknown 已解决
 
--[x] 9 .计算数组中某个值的出现次数[#](https://1loc.dev/#count-the-occurrences-of-a-value-in-an-array)
+-[x] 9 .计算数组中某个值的出现次数
 
--[x] 10 .计算数组元素的出现次数[#](https://1loc.dev/#count-the-occurrences-of-array-elements)
+```js
+const countOccurrences = (arr, val) => arr.reduce((a, v) => (v === val ? a + 1 : a), 0)
+
+// Or
+const countOccurrences = (arr, val) => arr.filter((item) => item === val).length
+
+// Examples
+countOccurrences([2, 1, 3, 3, 2, 3], 2) // 2
+countOccurrences(['a', 'b', 'a', 'c', 'a', 'b'], 'a') // 3
+```
+
+-[x] 10 .计算数组元素的出现次数
+
+```js
+const countOccurrences = (arr) =>
+  arr.reduce((prev, curr) => ((prev[curr] = ++prev[curr] || 1), prev), {})
+
+// Examples
+countOccurrences([2, 1, 3, 3, 2, 3]) // { '1': 1, '2': 2, '3': 3 }
+countOccurrences(['a', 'b', 'a', 'c', 'a', 'b']) // { 'a': 3, 'b': 2, 'c': 1 }
+```
 
 unknown 已解决
 
--[x] 11 .创建一个累积和的数组[#](https://1loc.dev/#create-an-array-of-cumulative-sum)
+-[x] 11 .创建一个累积和的数组
 
--[x] 12 .创建给定范围内的数字数组[#](https://1loc.dev/#create-an-array-of-numbers-in-the-given-range)
+```js
+const accumulate = (arr) => arr.reduce((a, b, i) => (i === 0 ? [b] : [...a, b + a[i - 1]]), [])
+// Or
+const accumulate = (arr) =>
+  arr.map(
+    (
+      (sum) => (value) =>
+        (sum += value)
+    )(0)
+  )
+// Or
+const accumulate = (arr) => arr.reduce((a, b, i) => (i === 0 ? [b] : [...a, b + a[i - 1]]), 0)
+```
 
--[x] 13 .创建笛卡尔积[#](https://1loc.dev/#create-cartesian-product)
+-[x] 12 .创建给定范围内的数字数组
+
+```js
+const range = (min, max) => [...Array(max - min + 1).keys()].map((i) => i + min)
+
+// Or
+const range = (min, max) =>
+  Array(max - min + 1)
+    .fill(0)
+    .map((_, i) => min + i)
+
+// Or
+const range = (min, max) => Array.from({ length: max - min + 1 }, (_, i) => min + i)
+
+// Example
+range(5, 10) // [5, 6, 7, 8, 9, 10]
+```
+
+-[x] 13 .创建笛卡尔积
+
+```js
+const cartesian = (...sets) =>
+  sets.reduce((acc, set) => acc.flatMap((x) => set.map((y) => [...x, y])), [[]])
+
+// Example
+cartesian([1, 2], [3, 4]) // [ [1, 3], [1, 4], [2, 3], [2, 4] ]
+
+/*
+       3       4
+   ---------------
+1 | [1, 3]  [1, 4]
+  |
+2 | [2, 3]  [2, 4]
+
+
+*/
+```
 
 太复杂，失去可读性？？？
 
--[x] 14 .清空数组[#](https://1loc.dev/#empty-an-array)
+-[x] 14 .清空数组
+
+```js
+const empty = (arr) => (arr.length = 0)
+
+// Or
+arr = []
+```
 
 -[x] 15 .从数组中找到最接近的数字[#](https://1loc.dev/#find-the-closest-number-from-an-array)
 
