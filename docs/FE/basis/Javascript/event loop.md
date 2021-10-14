@@ -31,6 +31,22 @@
       2. 完成之后，会检查有没有微任务队列中是否有微任务，如果有，执行完所有微任务，如果这个过程中又有微任务被添加到微任务队列中，则继续执行微任务直至所有微任务执行完毕，
       3. 开始下一个任务队列中的任务，重复第 2 个步骤
       4. 直至任务队列中所有任务执行完毕
-3. 参考
+
+| 宏任务                | 浏览器 | Node |
+| --------------------- | ------ | ---- |
+| I/O                   | ✅     | ✅   |
+| setTimeout            | ✅     | ✅   |
+| setInterval           | ✅     | ✅   |
+| setImmediate          | ❌     | ✅   |
+| requestAnimationFrame | ✅     | ❌   |
+
+| 微任务                     | 浏览器 | Node |
+| -------------------------- | ------ | ---- |
+| process.nextTick           | ❌     | ✅   |
+| MutationObserver           | ✅     | ❌   |
+| Promise.then catch finally | ✅     | ✅   |
+
+1. 参考
    1. [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
    2. [深入：微任务与 Javascript 运行时环境](https://developer.mozilla.org/zh-CN/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth)
+   3. [微任务、宏任务与 Event-Loop](https://juejin.cn/post/6844903657264136200)
