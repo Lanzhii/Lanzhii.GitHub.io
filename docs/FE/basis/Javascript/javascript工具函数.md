@@ -6,17 +6,21 @@
 
 **\*\*### 数组\*\***
 
--[x] 1 .将值转换为数组
-
-```javascript
+<details>
+<summary>-[x] 1 .将值转换为数组</summary>
+<pre>
+<code>
 const castArray = (value) => (Array.isArray(value) ? value : [value])
 
 // Examples
 castArray(1) // [1]
 castArray([1, 2, 3]) // [1, 2, 3]
-```
+</code>
 
--[x] 2 .检查数组是否为空[#](https://1loc.dev/#check-if-an-array-is-empty)
+</pre>
+</details>
+
+-[x] 2 .检查数组是否为空
 
 ```js
 const isEmpty = (arr) => !Array.isArray(arr) || arr.length === 0
